@@ -22,7 +22,7 @@ Theme: Tokyo Night / Oxocarbon palette, glass panel, dank GTK colors.
 ## Install
 
 ```bash
-git clone git@github.com:hluaguo/dotfiles.git
+git clone git@github.com:hluaguo/dotfiles-linux.git
 cd dotfiles
 ./install.sh
 ```
