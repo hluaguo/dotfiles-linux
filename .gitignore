@@ -1,6 +1,7 @@
 # Generated files that shouldn't be tracked
 .config/fcitx5/rime/build/
 .config/fcitx5/rime/user.yaml
+.config/fish/fish_variables
 
 # Bulk re-downloadable rime data (rime-cantonese / dict dumps), each >1MB —
 # restore via plum `rime-install rime-cantonese` + the extra dict sources.
