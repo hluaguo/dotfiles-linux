@@ -1,0 +1,29 @@
+# Generated files that shouldn't be tracked
+.config/fcitx5/rime/build/
+.config/fcitx5/rime/user.yaml
+
+# Bulk re-downloadable rime data (rime-cantonese / dict dumps), each >1MB —
+# restore via plum `rime-install rime-cantonese` + the extra dict sources.
+# Small personal dicts (my.dict.yaml, user.dict.yaml, custom_phrase.txt) stay tracked.
+.config/fcitx5/rime/anime.dict.yaml
+.config/fcitx5/rime/base.dict.yaml
+.config/fcitx5/rime/cantonese.dict.yaml
+.config/fcitx5/rime/correlation.dict.yaml
+.config/fcitx5/rime/essay-cantonese.txt
+.config/fcitx5/rime/medication.dict.yaml
+.config/fcitx5/rime/others.dict.yaml
+.config/fcitx5/rime/poetry.dict.yaml
+.config/fcitx5/rime/suggestion_one.dict.yaml
+.config/fcitx5/rime/suggestion_two.dict.yaml
+.config/fcitx5/rime/wiki.dict.yaml
+.config/fcitx5/rime/zh-hant-cantonese.gram
+.config/fcitx5/rime/cn_dicts/anime.dict.yaml
+.config/fcitx5/rime/cn_dicts/base.dict.yaml
+.config/fcitx5/rime/cn_dicts/cantonese.dict.yaml
+.config/fcitx5/rime/cn_dicts/correlation.dict.yaml
+.config/fcitx5/rime/cn_dicts/medication.dict.yaml
+.config/fcitx5/rime/cn_dicts/others.dict.yaml
+.config/fcitx5/rime/cn_dicts/poetry.dict.yaml
+.config/fcitx5/rime/cn_dicts/suggestion_one.dict.yaml
+.config/fcitx5/rime/cn_dicts/suggestion_two.dict.yaml
+.config/fcitx5/rime/cn_dicts/wiki.dict.yaml

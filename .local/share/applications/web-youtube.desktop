@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Youtube
+Comment=youtube.com
+Exec=xdg-open https://youtube.com
+Icon=/home/hugolau/.local/share/icons/web/youtube.png
+Categories=Network;WebBrowser;
+Keywords=web;link;youtube;video;
+Terminal=false
+NoDisplay=false

@@ -1,0 +1,13 @@
+---
+name: quick5.extended
+version: "2024.01"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - quick5
+  - base
+  - correlation
+  - suggestion_one
+  - suggestion_two
+  - my
+...

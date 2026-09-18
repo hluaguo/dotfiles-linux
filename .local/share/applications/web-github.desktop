@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GitHub
+Comment=github.com
+Exec=xdg-open https://github.com
+Icon=/home/hugolau/.local/share/icons/web/github.png
+Categories=Network;WebBrowser;
+Keywords=web;link;github;
+Terminal=false
+NoDisplay=false
